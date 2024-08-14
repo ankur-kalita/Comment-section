@@ -2,6 +2,8 @@
 
 This project was bootstrapped with [Create React App](https://github.com/facebook/create-react-app).
 
+Click this [link](https://comment-section-izmxoebwt-ankurs-projects-8f039db5.vercel.app/) to view it on your browser.
+
 ## Available Scripts
 
 In the project directory, you can run:
